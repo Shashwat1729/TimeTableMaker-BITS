@@ -1,0 +1,11 @@
+STUDENT,student1,password123,John Doe,Computer Science,2022AAPS1234H,Computer Science,2
+STUDENT,student2,password123,Jane Smith,Electrical Engineering,2022AAPS2345H,Electrical Engineering,2
+STUDENT,student3,password123,Mike Johnson,Mechanical Engineering,2022AAPS3456H,Mechanical Engineering,3
+STUDENT,student4,password123,Sarah Wilson,Chemical Engineering,2022AAPS4567H,Chemical Engineering,1
+STUDENT,student5,password123,David Brown,Physics,2022AAPS5678H,Physics,4
+INSTRUCTOR,instructor1,password456,Dr. Smith,Computer Science,INS001,Data Structures
+INSTRUCTOR,instructor2,password456,Dr. Johnson,Electrical Engineering,INS002,Digital Electronics
+INSTRUCTOR,instructor3,password456,Dr. Williams,Mechanical Engineering,INS003,Thermodynamics
+INSTRUCTOR,instructor4,password456,Dr. Davis,Chemical Engineering,INS004,Chemical Processes
+INSTRUCTOR,instructor5,password456,Dr. Miller,Physics,INS005,Quantum Mechanics
+ADMIN,admin1,admin123,Admin User,Administration,ADM001,SUPER 

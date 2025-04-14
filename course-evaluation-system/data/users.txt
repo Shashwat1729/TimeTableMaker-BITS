@@ -1,5 +1,0 @@
-STUDENT,student1,password123,12345678,Computer Science,1,John Doe,Computer Science
-STUDENT,student2,password123,12345679,Physics,2,Jane Smith,Physics
-INSTRUCTOR,instructor1,password123,CS1001,Professor,Alan Turing,Computer Science
-INSTRUCTOR,instructor2,password123,PH1001,Professor,Marie Curie,Physics
-ADMIN,admin1,password123,ADM1001,System Admin,Admin User,IT Department 

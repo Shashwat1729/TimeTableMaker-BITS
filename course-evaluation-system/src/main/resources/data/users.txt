@@ -1,5 +1,0 @@
-STUDENT,2022AAPS1234H,password123,John,Doe,CSE
-STUDENT,2022AXPS5678H,password123,Jane,Smith,EEE
-INSTRUCTOR,shashwat,password456,Shashwat,Kumar,CSE
-INSTRUCTOR,shardul,password456,Shardul,Sharma,CSE
-ADMIN,admin,password789 
